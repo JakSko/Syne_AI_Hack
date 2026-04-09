@@ -1,0 +1,21 @@
+# Archives
+*.zip
+
+# OS files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# Dependencies
+node_modules/
+__pycache__/
+*.pyc
+.env
+
+# Binary docs (keep markdown versions)
+*.pdf
+*.docx
