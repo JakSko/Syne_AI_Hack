@@ -16,6 +16,9 @@ __pycache__/
 *.pyc
 .env
 
+# Build output
+dist/
+
 # Binary docs (keep markdown versions)
 *.pdf
 *.docx
